@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # Do not use Angular unless u r forced to
-### ur welcome
+### u r welcome
 
 <!-- **xrehpicx/xrehpicx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
