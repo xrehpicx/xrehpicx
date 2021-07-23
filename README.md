@@ -1,18 +1,13 @@
-### Hi there 👋
+# Raj Sharma
 
-# Do not use Angular unless u r forced to
-### u r welcome
 
-<!-- **xrehpicx/xrehpicx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<!-- Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Node, Cpp stuff
-- 🌱 I’m currently learning Cpp
-- 👯 I’m looking to collaborate on Cpp
-- 🤔 I’m looking for help with Cpp
-- 💬 Ask me about Cpp
-- 📫 How to reach me: Cpp
-- 😄 Pronouns: Cpp
-- ⚡ Fun fact: Cpp
- -->
+- 🔭 I’m currently working on Node, Typescript stuff
+- 🌱 I’m currently learning React
+- 👯 I’m looking to collaborate on React
+- 🤔 I’m looking for help with nothing
+- 💬 Ask me about React
+- 📫 How to reach me: React
+- 😄 Pronouns: React
+- ⚡ Fun fact: React
+- React
