@@ -4,4 +4,4 @@
 
 check out [raj.how](https://raj.how)
 
-and incase github goes down go [here](https://git.tokio.space/raj)https://git.tokio.space/raj
+and incase github goes down go [here](https://git.tokio.space/raj)
